@@ -1,0 +1,14 @@
+{
+  "name": "e-sport",
+  "version": "1.0.0",
+  "description": "site for hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sameer",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
